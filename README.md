@@ -94,3 +94,6 @@ By documenting inconsistencies and unfair practices factually, we aim to:
 
 **Sources**:
 - https://docs.google.com/document/d/1Dk_-wHaqqa4KkwsO3Tm2YBoxW-N47jW2g3NOrHmN5wc/edit?usp=sharing (Thanks to gav1nzz/charkholl)
+
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://forthebadge.com)
