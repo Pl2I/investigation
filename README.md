@@ -21,10 +21,10 @@ This project is **non-commercial, factual, and journalistic** in nature.
 
 | Topic | Status | Summary |
 |-------|---------|----------|
-| **Corporate identity** | [Y] | UK company *Elefant AI Ltd* (Company No. 15590241) is real; “Elefant AI Inc.” exists only in U.S. trademark filings. |
-| **Trademark ownership** | [X] Verified | “PLAYER 2” trademark filed by *Elefant AI Inc.* (USPTO), but no U.S. incorporation found. |
+| **Corporate identity** | Verified | UK company *Elefant AI Ltd* (Company No. 15590241) is real; “Elefant AI Inc.” exists only in U.S. trademark filings. |
+| **Trademark ownership** | Verified | “PLAYER 2” trademark filed by *Elefant AI Inc.* (USPTO), but no U.S. incorporation found. |
 | **Moderator's rights** | ⚠️ Ongoing | The restrictions on what can moderators say on the Discord Server |
-| **Developer restrictions** | [X] Verified | Non-patron users limited to ~1 hour mod testing unless subscribed. |
+| **Developer restrictions** | Verified | Non-patron users limited to ~1 hour mod testing unless subscribed. |
 | **Transparency issues** | ⚠️ Ongoing | Branding and corporate disclosures inconsistent across platforms. |
 
 ---
