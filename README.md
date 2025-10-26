@@ -60,11 +60,16 @@ Below is a screenshot reportedly shared by a verified moderator on the Player2 t
 > **Evidence:** Archived messages, community logs, and anonymized moderator testimony.
 
 ---
-
 ## Links
 
-- [Corporate identity](investigation/legally/index.md)  
-- [Moderation Investigation](investigation/moderation.md)  
+- [Corporate identity](investigation/corporate_identity.md)  
+- [Platform overview](investigation/platform_overview.md)  
+- [Community changes](investigation/community_changes.md)  
+- [Monetization](investigation/monetization.md)  
+- [Moderation & content safety](investigation/moderation.md)  
+- [Website analysis](investigation/website_analysis.md)  
+- [Report summary](investigation/report_summary.md)  
+- [Legal guidelines](investigation/legal/investigation.md)  
 - [Main Page](README.md) ← You are here
 
 ---
