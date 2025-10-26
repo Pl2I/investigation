@@ -11,6 +11,6 @@ Implications of this discrepancy:
 
 This inconsistency is relevant for anyone engaging with Player2 commercially, legally, or as part of the moderation and development community.
 
-## More in [legal](legal/index.md)
+## More in [legally](legally/index.md)
 
 > Sources: Companies House UK, USPTO trademark database.
