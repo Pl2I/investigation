@@ -78,6 +78,5 @@ By documenting inconsistencies and unfair practices factually, we aim to:
 
 ---
 
-**Maintainer:** {{your name or alias}}  
-**Contact:** {{email or secure channel if desired}}  
+**Maintainer:** Alex
 **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
