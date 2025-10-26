@@ -118,6 +118,7 @@ By documenting inconsistencies and unfair practices factually, we aim to:
 ---
 
 **Maintainer:** Alex  
-**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)#
+**License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
+
 **Sources**:
 - https://docs.google.com/document/d/1Dk_-wHaqqa4KkwsO3Tm2YBoxW-N47jW2g3NOrHmN5wc/edit?usp=sharing (Thanks to gav1nzz/charkholl)
