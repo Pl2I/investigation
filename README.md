@@ -30,7 +30,8 @@ This project is **non-commercial, factual, and journalistic** in nature.
 ---
 
 # Links
-[Corporate identity](legal/index.md)
+[Corporate identity](investigation/legally/index.md)
+
 [Main Page](README.md) <-- You are here
 
 ---
